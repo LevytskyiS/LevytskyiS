@@ -10,15 +10,15 @@
 
 <!-----Social Accounts------>
 <p align="center">
-<a href="[https://www.linkedin.com/in/hrugved-kolhe-364881193/](https://www.linkedin.com/in/serhii-levytskyi-b9570423a/?locale=en_US)">
+<a href="https://www.linkedin.com/in/serhii-levytskyi-b9570423a/?locale=en_US">
 <img border="0" alt="Serhii Levytskyi" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
-<a href="[https://www.instagram.com/_hrugved_/](https://www.instagram.com/levitsk1y/)">
+<a href="https://www.instagram.com/levitsk1y/">
 <img border="0" alt="Serhii Levytskyi" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
 </a>
 
-<a href="mailto:levytskyi.sv@gmail.com">
+<a href="levytskyi.sv@gmail.com">
 <img border="0" alt="Serhii Levytskyi" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
