@@ -19,7 +19,7 @@
 </a>
 
 <a href="mailto:levytskyi.sv@gmail.com">
-<img border="0" alt="Serhii Levytskyi" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+<img border="0" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
 
