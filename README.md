@@ -9,7 +9,7 @@
 - 📫 You can contact me through these socials IDs 😁👇🏻  <br/>
 
 <!-----Social Accounts------>
-
+<p align="center">
 <a href="[https://www.linkedin.com/in/hrugved-kolhe-364881193/](https://www.linkedin.com/in/serhii-levytskyi-b9570423a/?locale=en_US)">
 <img border="0" alt="Serhii Levytskyi" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
