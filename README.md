@@ -1,35 +1,34 @@
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Serhii 😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-<!-- <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div> -->
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
-<div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=LevytskyiS&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Hey there, I'm Serhii!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+- 👀 I’m interested in Databases, Fast API, RESTful Web Services and Many more 😄<br/>
+- 🌱 Always trying to learn new technologies 🤵🏻 <br/>
+- 👨🏻‍💻 Currently exploring Pandas, NumPy and Machine Learning 📱</br>
+- 💞️ I’m open for collaboration on every interesting project/stuff ✌🏻<br/>
+- 📫 You can contact me through these socials IDs 😁👇🏻  <br/>
 
-<!-- ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+<!-----Social Accounts------>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+<a href="[https://www.linkedin.com/in/hrugved-kolhe-364881193/](https://www.linkedin.com/in/serhii-levytskyi-b9570423a/?locale=en_US)">
+<img border="0" alt="Serhii Levytskyi" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+</a>
 
-- :seedling: Exploring Technical Content Writing.
+<a href="[https://www.instagram.com/_hrugved_/](https://www.instagram.com/levitsk1y/)">
+<img border="0" alt="Serhii Levytskyi" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+</a>
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<a href="mailto:levytskyi.sv@gmail.com">
+<img border="0" alt="Serhii Levytskyi" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+</a>
+</p>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-                        -->
+<!--  <a href="https://tawk.to/chat/61001d75d6e7610a49ad3be2/1fbk764uk">
+<img border="0" alt="yawk.to" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
+</a> -->
+ 
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -45,21 +44,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevytskyiS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
-<!--
-**LevytskyiS/LevytskyiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
