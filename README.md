@@ -18,7 +18,7 @@
 <img border="0" alt="Serhii Levytskyi" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
 </a>
 
-<a href="levytskyi.sv@gmail.com">
+<a href="mailto:levytskyi.sv@gmail.com">
 <img border="0" alt="Serhii Levytskyi" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 </p>
